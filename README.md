@@ -27,4 +27,19 @@
 
 ### Output:
 
+
+
+![image](https://github.com/user-attachments/assets/e5c07086-f786-4e77-ae0a-ab08d1d2d125)
+
+
+
+
+![image](https://github.com/user-attachments/assets/f5589cf3-478f-499e-8213-1625fb84360d)
+
+
+
+
+![image](https://github.com/user-attachments/assets/dbc70662-bec2-4996-b14f-bc1151200881)
+
 ### Result:
+Thus, sentimental analysis for twitter data using Rapidminer is done successfully.
